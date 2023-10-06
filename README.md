@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @megh-anaa
-- 👀 I’m interested in Designing of ROBOTS and Manufacturing Chips
+- 👀 I’m interested in ROBOTICS and Designing of Chips
 - 🌱 I’m currently learning Mechanical Robotics
 - 📫 How to reach me saimeghana.t20@iiits.in
 
